@@ -36,7 +36,7 @@ const swaggerOptions = {
         },
         servers: [
             {
-                url: `http://localhost:3001/api`
+                url: `https://hotel-hc-api-production.up.railway.app/api`
             }
         ]
     },
